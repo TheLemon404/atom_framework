@@ -7,3 +7,4 @@ edition = "2021"
 members = [
     "crates/*"
 ]
+crate-type = ["cdylib", "rlib"]
